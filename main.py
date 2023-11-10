@@ -1,3 +1,5 @@
+#! python 3.11.1
+
 from enum import Enum
 from fastapi import FastAPI
 from pydantic import BaseModel
