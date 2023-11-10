@@ -1,4 +1,4 @@
-#! /usr/bin python 3.11.1
+#! /usr/bin python3.11.1
 
 from enum import Enum
 from fastapi import FastAPI
